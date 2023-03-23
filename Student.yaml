@@ -1,0 +1,19 @@
+student:
+  firstName: Anna
+  surName: Ivanova
+  age: 23
+  adress:
+    country: Poland
+    city: Warsaw
+    street: Klonova
+    appartment: 80
+    zip: 90333
+  married: false
+  PESEL:
+  mathavarage: 10.5
+  hobby:
+  - cycling
+  - reading
+  - dancing
+  weight: 55
+  height: 164

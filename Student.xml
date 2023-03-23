@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<student>
+		<firstName>Anna</firstName>
+		<surName>Ivanova</surName>
+		<age>23</age>
+		<adress>
+			<country>Poland</country>
+			<city>Warsaw</city>
+			<street>Klonova</street>
+			<appartment>80</appartment>
+			<zip>90333</zip>
+		</adress>
+		<married>false</married>
+		<PESEL/>
+		<mathavarage>10.5</mathavarage>
+		<hobbies>
+			<hobby>cycling</hobby>
+			<hobby>reading</hobby>
+			<hobby>dancing</hobby>
+		</hobbies>
+		<weight>55</weight>
+		<height>164</height>
+	</student>
+</root>
